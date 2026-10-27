@@ -1,0 +1,7 @@
+streamlit>=1.50,<2
+SQLAlchemy>=2.0,<3
+psycopg2-binary>=2.9
+bcrypt>=4.1
+pandas>=2.2
+openpyxl>=3.1
+altair>=5.3
